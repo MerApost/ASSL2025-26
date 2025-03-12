@@ -2,9 +2,9 @@
 * This repository will be **under continuous update** during the **Spring Semester 2025**.
  
 ## Student Information
-* Name: Meropi
-* Surname: Apostolaki
-* Academic ID number: 1115-2022-00008
+* Name: **Meropi**
+* Surname: **Apostolaki**
+* Academic ID number: **1115-2022-00008**
 * Email: sdi2200008@di.uoa.gr
 
 ## Subprojects delivered on time:
