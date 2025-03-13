@@ -8,7 +8,7 @@
 * Email: sdi2200008@di.uoa.gr
 
 ## Subprojects delivered on time:
-- [ ] Sub01
+- [x] Sub01
 - [ ] Sub02
 - [ ] Sub03
 
