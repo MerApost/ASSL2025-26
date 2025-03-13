@@ -11,7 +11,7 @@ During this task, you have to accomplish (and check, accordingly) the following 
 
 ## 3. Image
 
-![Put here your Use Case Diagram image!](UseCaseDiagram_example.png)
+![Put here your Use Case Diagram image!](UCD_sdi000008.png)
 
 ## 4. Assumptions
 * Assumption01: **I consider the actors (animals) who interact with the organization to be secondary operators.**
