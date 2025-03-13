@@ -4,19 +4,20 @@
 
 ## 2. Goals
 During this task, you have to accomplish (and check, accordingly) the following **goals**:
-- [ ] Depict system boundary.
-- [ ] Depict the basic use cases (not less than 3, not more than 10).
-- [ ] Depict actors.
-- [ ] Depict the relationships: associations, includes, extends, generalizations.
+- [x] Depict system boundary.
+- [x] Depict the basic use cases (not less than 3, not more than 10).
+- [x] Depict actors.
+- [x] Depict the relationships: associations, includes, extends, generalizations.
 
 ## 3. Image
 
 ![Put here your Use Case Diagram image!](UseCaseDiagram_example.png)
 
 ## 4. Assumptions
-* Assumption01: ................
-* Assumption02: ................
-* ...
+* Assumption01: **I consider the actors (animals) who interact with the organization to be secondary operators.**
+* Assumption02: At the includes of the circulatory system with the digestive and excretory systems, , it is "filtered" with the blood, absorbing nutrients and removing waste (toxic nitrogen compounds, carbon dioxide, etc.)
+* Assumption03: Ιn the Integumentary System i added an extend for wound healing
+
 
 ## 5. Deadline
 **Upload until**: 18-03-2025
