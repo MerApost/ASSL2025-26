@@ -14,9 +14,8 @@ During this task, you have to accomplish (and check, accordingly) the following 
 ![Put here your Use Case Diagram image!](UCD_sdi000008.png)
 
 ## 4. Assumptions
-* Assumption01: **I consider the actors (animals) who interact with the organization to be secondary operators.**
-* Assumption02: At the includes of the circulatory system with the digestive and excretory systems, , it is "filtered" with the blood, absorbing nutrients and removing waste (toxic nitrogen compounds, carbon dioxide, etc.)
-* Assumption03: Ιn the Integumentary System i added an extend for wound healing
+* Assumption01: At the includes of the circulatory system with the digestive and excretory systems, , it is "filtered" with the blood, absorbing nutrients and removing waste (toxic nitrogen compounds, carbon dioxide, etc.)
+* Assumption02: Ιn the Integumentary System i added an extend for wound healing
 
 
 ## 5. Deadline
