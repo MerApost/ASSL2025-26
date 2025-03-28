@@ -13,7 +13,7 @@ During this task, you have to accomplish (and check, accordingly) the following 
 - [ ] Depict at least one class attribute as **static** (whichever you want).
 
 ## 3. Image
-![Put here your Class Diagram image!](UCD_sdi000008.png)
+![Put here your Class Diagram image!](CD_sdi0200008.png)
 
 
 ## 4. Assumptions
