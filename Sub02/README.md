@@ -5,12 +5,12 @@
 
 ## 2. Goals
 During this task, you have to accomplish (and check, accordingly) the following **goals**:
-- [ x ] Depict human body as a class with at least 2 **attributes** and 2 **methods**.
-- [ x ] Depict the basic systems of the human body as **classes** (not less than 3, not more than 10).
-- [ x ] Depict at least one class as **Abstract** (whichever fits better to your design).
-- [ x ] Depict the **relationships** between the classes (Aggregations and/or Compositions, Associations, Dependencies, Inheritance etc.) that better fit your diagram.
-- [ x ] Depict at least one **enumeration**.
-- [ x ] Depict at least one class attribute as **static** (whichever you want).
+- [x] Depict human body as a class with at least 2 **attributes** and 2 **methods**.
+- [x] Depict the basic systems of the human body as **classes** (not less than 3, not more than 10).
+- [x] Depict at least one class as **Abstract** (whichever fits better to your design).
+- [x] Depict the **relationships** between the classes (Aggregations and/or Compositions, Associations, Dependencies, Inheritance etc.) that better fit your diagram.
+- [x] Depict at least one **enumeration**.
+- [x] Depict at least one class attribute as **static** (whichever you want).
 
 ## 3. Image
 ![Put here your Class Diagram image!](CD_sdi0200008.png)
