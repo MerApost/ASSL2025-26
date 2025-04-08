@@ -14,12 +14,7 @@ During this task, you have to accomplish (and check, accordingly) at least the f
 - [x] Depict at least one combined fragment (e.g. alternatives, options, loops).
 
 ## 3. Image
-
-
-## 4. Assumptions
-* Assumption01: ................
-* Assumption02: ................
-* ...
+![Put here your Diagram image!](SD_sdi0200008.png)
 
 ## 5. Deadline
 **Upload until**: 08-04-2025
