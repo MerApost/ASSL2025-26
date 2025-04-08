@@ -9,8 +9,8 @@
 
 ## Subprojects delivered on time:
 - [x] Sub01
-- [ ] Sub02
-- [ ] Sub03
+- [x] Sub02
+- [x] Sub03
 
 
 ## Resources
