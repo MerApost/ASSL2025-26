@@ -12,8 +12,7 @@ During this task, you have to accomplish (and check, accordingly) at least the f
 
 ## 4. Assumptions
 * Assumption01: In this diagram, I chose the circulatory system from Class Diagram, specifically depict all the states for the function of the heart.
-* Assumption02: ................
-* ...
+* Assumption02: At some points I use the same sentence for a guard or a trigger (e.g., damaged valves) but they have a different purpose. Specifically, a trigger is about triggering an event, while a guard is about monitoring a situation.
 
 ## 5. Deadline
 **Upload until**: 28-04-2025
