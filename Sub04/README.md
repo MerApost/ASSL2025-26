@@ -12,7 +12,7 @@ SCD_sdi0xxxxxx.pdf
 ![Put here your Diagram image!](SCD_sdi0200008.png)
 
 ## 4. Assumptions
-* Assumption01: In this diagram, I chose the circulatory system, specifically for the function of the heart.
+* Assumption01: In this diagram, I chose the circulatory system from Class Diagram, specifically depict all the states for the function of the heart.
 * Assumption02: ................
 * ...
 
