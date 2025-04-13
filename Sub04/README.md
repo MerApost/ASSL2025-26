@@ -8,7 +8,6 @@ During this task, you have to accomplish (and check, accordingly) at least the f
 - [x] Depict all the necessary triggers, guards, and activities (at least one of each).
 
 ## 3. Image
-SCD_sdi0xxxxxx.pdf
 ![Put here your Diagram image!](SCD_sdi0200008.png)
 
 ## 4. Assumptions
