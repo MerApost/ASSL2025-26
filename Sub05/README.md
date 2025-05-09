@@ -14,10 +14,5 @@ During this task, you have to accomplish (and check, accordingly) at least the f
 ![Put here your Diagram image!](DFD_sdi0200008.png)
 
 
-## 4. Assumptions
-* Assumption01: ................
-* Assumption02: ................
-* ...
-
-## 5. Deadline
+## 4. Deadline
 **Upload until**: 11-05-2025
